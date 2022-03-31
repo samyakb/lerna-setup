@@ -1,6 +1,6 @@
 {
-	"name": "core",
-	"version": "1.0.0",
+	"name": "@samyakb/core",
+	"version": "0.0.1",
 	"description": "",
 	"main": "dist/index.js",
 	"module": "dist/index.es.js",
